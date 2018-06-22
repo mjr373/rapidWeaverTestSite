@@ -10,7 +10,10 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>ColourStyles</key>
-				<dict/>
+				<dict>
+					<key>Offroad</key>
+					<dict/>
+				</dict>
 				<key>CreditRapidWeaver</key>
 				<true/>
 				<key>DefaultLinkTarget</key>
@@ -37,6 +40,21 @@
 				<integer>1</integer>
 				<key>TextEncoding</key>
 				<string>utf-8</string>
+				<key>ThemeStyles</key>
+				<dict>
+					<key>Offroad</key>
+					<array>
+						<string>Background overlay.80% opacity</string>
+						<string>Background.Use background image</string>
+						<string>Blur background on scroll.Blur</string>
+						<string>Desktop navigation.Main colour</string>
+						<string>Global colours.Main</string>
+						<string>Photo album.Show captions</string>
+						<string>Sidebar.Hidden</string>
+						<string>Site description.Visible</string>
+						<string>Site title.Show site title</string>
+					</array>
+				</dict>
 			</dict>
 			<key>Files</key>
 			<array/>

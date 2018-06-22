@@ -12,7 +12,7 @@
 				<key>File References</key>
 				<dict>
 					<key>App Scope</key>
-					<true/>
+					<false/>
 					<key>File References</key>
 					<array/>
 				</dict>
@@ -107,6 +107,8 @@
 					<true/>
 					<key>WebClipIconUsed</key>
 					<false/>
+					<key>cacheBustingString</key>
+					<string>?rwcache=551369694</string>
 					<key>hasChangedGlobalBody</key>
 					<false/>
 					<key>hasChangedGlobalCSS</key>
