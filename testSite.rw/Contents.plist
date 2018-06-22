@@ -109,16 +109,26 @@
 					<false/>
 					<key>cacheBustingString</key>
 					<string>?rwcache=551369694</string>
+					<key>globalBody</key>
+					<string></string>
+					<key>globalCSS</key>
+					<string></string>
+					<key>globalHeader</key>
+					<string></string>
+					<key>globalJavascript</key>
+					<string></string>
+					<key>globalPrefix</key>
+					<string></string>
 					<key>hasChangedGlobalBody</key>
-					<false/>
+					<true/>
 					<key>hasChangedGlobalCSS</key>
-					<false/>
+					<true/>
 					<key>hasChangedGlobalHeader</key>
-					<false/>
+					<true/>
 					<key>hasChangedGlobalJavascript</key>
-					<false/>
+					<true/>
 					<key>hasChangedGlobalPrefix</key>
-					<false/>
+					<true/>
 					<key>minifyExtraFiles</key>
 					<true/>
 					<key>useCacheBusting</key>
